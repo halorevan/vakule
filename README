@@ -19,3 +19,8 @@ on a planet.  However, political turmoil erupts and essentially makes a
 stateless society.
 
 This is all under the GPL license, or maybe BSD* license.
+
+If you want to submit work to this project right now, please specify the
+licenses you want to release the code under, if you have a specific preference.
+Code added to a project will be removed if the license ultimately chosen would
+be incompatible with the license desired, and you will be notified of this.
